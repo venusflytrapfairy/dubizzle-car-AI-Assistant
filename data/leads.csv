@@ -1,0 +1,2 @@
+user_id,name,email,budget_min,budget_max,preferred_make,body_type,viewing_booked,returning_user,lead_score,lead_status,reasons,updated_at
+anusha,,,,50000,,Sedan,False,True,10,Cold Lead,Returning user,2026-07-23 14:49:35
