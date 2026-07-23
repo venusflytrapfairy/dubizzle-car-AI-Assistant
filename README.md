@@ -1,4 +1,4 @@
-# 🚗 dubizzle Cars AI Assistant
+# dubizzle Cars AI Assistant
 
 An AI assistant prototype for exploring dubizzle's used-car inventory, booking test-drive viewings, and qualifying sales leads  with short-term (in-session) and long-term (cross-session) memory of returning users.
 
